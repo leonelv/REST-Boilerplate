@@ -1,7 +1,6 @@
 {
   "name": "rest-boilerplate",
   "version": "0.1.0",
-  "license": "MIT",
   "scripts": {
     "start": "node main"
   },
@@ -13,5 +12,6 @@
     "mocha": "^5.1.1",
     "mongoose": "^5.0.15",
     "mysql": "^2.15.0"
-  }
+  },
+  "license": "GPL-3.0"
 }
