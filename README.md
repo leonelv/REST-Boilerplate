@@ -4,10 +4,10 @@ A RESTful API boilerplate made with [NodeJS](https://nodejs.org/) and [Express.j
 
 ## Includes
 
-- Firebase Admin
-- CORS
-- Mongoose
-- MySQL
+- [Firebase Admin](https://firebase.google.com/docs/admin/setup)
+- [CORS](https://github.com/expressjs/cors)
+- [Mongoose](http://mongoosejs.com/docs/guide.html)
+- [MySQL](https://github.com/mysqljs/mysql)
 
 ## TODO
 
